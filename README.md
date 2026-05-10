@@ -149,3 +149,7 @@ Emoji:
  
 
 :mask: 
+
+Student1 Information:
+Name: Zhang Peiran
+Student ID: 20242205
